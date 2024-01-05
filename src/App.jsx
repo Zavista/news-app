@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const App = () => {
 
-  const [category, setCategory] = useState("General");
+  const [category, setCategory] = useState("general");
 
   return (
     <div>
